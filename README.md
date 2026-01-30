@@ -31,3 +31,13 @@ Ce projet a été réalisé dans le cadre de ma formation afin de renforcer mes 
 - Remise à zéro du son pour les frappes rapides
 
 ---
+
+## 🚀 Installation du projet Legend Fighter
+
+Suivez ces étapes pour lancer le projet en local :
+
+### 1️⃣ Cloner le projet
+dans le temrinal : 
+```bash
+git clone https://github.com/Meikaziku/Tp-Drumpad.git ./
+```
